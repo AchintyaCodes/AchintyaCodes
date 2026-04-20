@@ -74,9 +74,8 @@
 
 <br/>
 
-<!-- Snake Game Repo View -->
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AchintyaCodes/snake-animation/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ## 🎯 Current Focus
