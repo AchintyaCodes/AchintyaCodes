@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="<img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/ea7066ed-db3a-4a49-a1f4-0be98cd89181" />
-" width="100%" />
+  <img src=""C:\Users\vfxsl\Downloads\github-header-banner.png"" width="100%" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Achintya</h1>
