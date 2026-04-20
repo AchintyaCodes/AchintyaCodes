@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/145c0cf9-d0f9-4455-a519-3b6b5ae60d4c" width="100%" />
+  <img src="https://github.com/user-attachments/assets/145c0cf9-d0f9-4455-a519-3b6b5ae60d4c" style="width:100%; max-width:1200px;" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Achintya</h1>
