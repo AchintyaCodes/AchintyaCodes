@@ -59,7 +59,7 @@
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AchintyaCodes&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AchintyaCodes&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
