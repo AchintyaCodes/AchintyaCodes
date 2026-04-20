@@ -21,17 +21,26 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-`Python` `Java` `JavaScript`
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=header"/>
 
-### 📊 Data Science
-`Pandas` `NumPy` `Matplotlib` `Scikit-learn`
+<!-- Main Stack Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,git,github,vscode,figma&perline=6" />
+</p>
 
-### 🌐 Web Dev
-`HTML` `CSS` `React (Learning)` `Node.js`
+<!-- Data Science (custom badges for missing icons) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-8A2BE2?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-8A2BE2?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-8A2BE2?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
 
-### ⚙️ Tools
-`Git` `GitHub` `VS Code` `Figma`
+<!-- Optional subtle animation line -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+%7C+AI+%7C+Data+Science+%7C+Web+Dev&center=true&color=8A2BE2&vCenter=true&width=500&height=30">
+</p>
 
 ---
 
