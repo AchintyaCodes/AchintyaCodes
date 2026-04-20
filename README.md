@@ -1,5 +1,10 @@
+<p align="center">
+  <img src="<img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/ea7066ed-db3a-4a49-a1f4-0be98cd89181" />
+" width="100%" />
+</p>
+
 <h1 align="center">Hey 👋, I'm Achintya</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | Building AI, Data & Web Projects</h3>
+<h3 align="center">🚀 Data Science Student | Building AI Systems & Real-World Projects</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+Data+Scientist;AI+%7C+Data+%7C+Web+Dev;Building+Top+1%25+Projects;Consistency+Wins&center=true&width=500&height=45">
