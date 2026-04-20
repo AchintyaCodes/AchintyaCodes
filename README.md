@@ -12,11 +12,11 @@
 ---
 
 ## 🧠 About Me
-- 🎓 B.Tech in Data Science & Engineering @ MIT Manipal  
-- 💡 I build projects that solve real-world problems  
-- 🚀 On a mission to become top 1% in tech  
-- 🌱 Currently learning: ML, DL, System Design  
-- ⚡ Focused on growth, discipline & execution  
+- 🎓 Data Science & Engineering @ MIT Manipal  
+- 🧠 Focused on AI, Machine Learning & Data Systems  
+- ⚒️ Building real-world, high-impact projects  
+- 📈 Obsessed with growth, discipline & execution  
+- 🚀 Goal: Become a top-tier Data Scientist
 
 ---
 
@@ -38,12 +38,12 @@
 
 ## 🚀 Projects
 
-🔹 **Coming Soon (High Impact Projects)**  
-- AI/ML Projects  
-- Data Dashboards  
-- Full Stack Apps  
+🔹 Currently building:
+- AI/ML Projects (in progress)  
+- Data Visualization Dashboards  
+- Full Stack Applications  
 
-⚡ Building in public — stay tuned
+⚡ Actively shipping projects — updates coming soon
 
 ---
 
@@ -65,9 +65,10 @@
 ---
 
 ## 🎯 Current Focus
-- Building FAANG-level data projects  
-- Mastering DSA & problem solving  
-- Staying consistent every single day  
+- Building production-level data science projects  
+- Strengthening DSA & problem solving  
+- Learning system design fundamentals  
+- Staying consistent daily
 
 ---
 
@@ -79,7 +80,7 @@
 ---
 
 ## ⚡ Motto
-> "Started from scratch. Not stopping."
+> "No shortcuts. Just execution."
 
 ---
 
