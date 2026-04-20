@@ -53,7 +53,6 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AchintyaCodes&background=0d1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&hide_border=true" />
 </p>
-
 ---
 
 ## 📊 Contribution Graph
