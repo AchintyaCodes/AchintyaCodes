@@ -46,18 +46,25 @@
 
 ## 🚀 Featured Projects
 
+### 🛡️ Fraud Intelligence System
+- **Tech:** Python, Machine Learning (Scikit-Learn), FastAPI, Streamlit
+- Built an end-to-end AI-powered fraud detection system featuring automated data pipelines and a real-time monitoring dashboard.
+- [View Repository](https://github.com/AchintyaCodes/fraud-intelligence-system)
+
+### 🍱 Food Intelligence System
+- **Tech:** Python, Pandas, Plotly, Streamlit
+- Developed a data-driven restaurant recommendation engine with interactive visualizations to analyze market trends and consumer behavior.
+- [View Repository](https://github.com/AchintyaCodes/food-intelligence-system)
+
+### 📄 AI Resume Analyzer
+- **Tech:** JavaScript, NLP, Web Integration
+- Engineered a tool to parse and analyze resumes, providing data-backed insights for recruitment optimization.
+- [View Repository](https://github.com/AchintyaCodes/ai-resume-analyzer)
+
 ### 🐍 Contribution Snake Automation
-- **Tech:** GitHub Actions, YAML, SVG Rendering
-- Automated a dynamic snake animation to visualize GitHub contribution heatmaps.
+- **Tech:** GitHub Actions, YAML, DevOps
+- Automated a dynamic SVG visualization of my coding activity to monitor consistency and deployment workflows.
 - [View Repository](https://github.com/AchintyaCodes/snake-animation)
-
-### 📊 Predictive Modeling & Analytics (In Progress)
-- **Tech:** Python, Scikit-Learn, Pandas
-- Developing end-to-end ML pipelines for data-driven forecasting and pattern recognition.
-
-### 💻 Full-Stack Data Systems
-- **Tech:** React, Node.js, SQL
-- Designing scalable applications focused on seamless data integration and UI/UX.
 
 ---
 
