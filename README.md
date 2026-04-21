@@ -11,11 +11,11 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Data Science & Engineering @ MIT Manipal  
-- 🧠 Focused on AI, Machine Learning & Data Systems  
-- ⚒️ Building real-world, high-impact projects  
-- 📈 Obsessed with growth, discipline & execution  
-- 🚀 Goal: Become a top-tier Data Scientist
+- 🎓 **Data Science & Engineering @ MIT Manipal** | Class of 2027
+- 💻 **Core Focus:** Advanced Data Structures, Algorithmic Optimization, and ML Systems
+- 🛠️ **Building:** High-performance data pipelines and predictive models
+- 🎯 **Technical Goal:** Bridging the gap between raw data and scalable software solutions
+- ⚡ **Current Mission:** Mastering MLOps and solving complex problems through code
 
 ---
 
