@@ -123,6 +123,6 @@
 </p>
 
 <p align="center">
-  🚀 <b>Open to Collaboration & Summer 2025 Internships</b> ✨ <br>
+  🚀 <b>Open to Collaboration & Summer 2026 Internships</b> ✨ <br>
   <kbd><b>Follow @AchintyaCodes</b></kbd> for more high-impact builds.
 </p>
