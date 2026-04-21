@@ -113,9 +113,9 @@
 
 ---
 
-## ⚡ Motto
-> **"No shortcuts. Just execution."**
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=No+shortcuts.+Just+execution.;Building+the+Future+with+Data+%26+Logic;Mastering+the+Art+of+Scalability" alt="Typing SVG" />
+</p>
 ---
 
 <p align="center">
@@ -123,5 +123,6 @@
 </p>
 
 <p align="center">
-  ⭐ If you like my work, consider following — let's build the future! 🚀
+  🚀 <b>Open to Collaboration & Summer 2025 Internships</b> ✨ <br>
+  <kbd><b>Follow @AchintyaCodes</b></kbd> for more high-impact builds.
 </p>
