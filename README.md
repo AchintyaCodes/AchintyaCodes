@@ -11,7 +11,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 **Data Science & Engineering @ MIT Manipal** | Class of 2027
+- 🎓 **Data Science & Engineering @ MIT Manipal** | Class of 2028
 - 💻 **Core Focus:** Advanced Data Structures, Algorithmic Optimization, and ML Systems
 - 🛠️ **Building:** High-performance data pipelines and predictive models
 - 🎯 **Technical Goal:** Bridging the gap between raw data and scalable software solutions
