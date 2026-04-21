@@ -3,10 +3,10 @@
 </p>
 
 
-<h3 align="center">🚀 Data Science Student | Building AI Systems & Real-World Projects</h3>
+<h3 align="center">🚀 Data Science & Engineering @ MIT Manipal</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+Data+Scientist;AI+%7C+Data+%7C+Web+Dev;Building+Top+1%25+Projects;Consistency+Wins&center=true&width=500&height=45&color=8A2BE2&vCenter=true&speed=40">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+%26+SWE+Intern+Candidate;Core+DSA+%26+Algorithmic+Problem+Solving;Building+Scalable+Data-Driven+Solutions;Optimizing+Code+for+Efficiency;Python+%7C+Java+%7C+SQL+%7C+Applied+Statistics&center=true&width=600&height=45&color=8A2BE2&vCenter=true&speed=35">
 </p>
 ---
 
