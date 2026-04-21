@@ -39,7 +39,7 @@
 
 <!-- Optional subtle animation line -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+%7C+AI+%7C+Data+Science+%7C+Web+Dev&center=true&color=8A2BE2&vCenter=true&width=500&height=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Large+Scale+Machine+Learning;Statistical+Inference+%7C+A/B+Testing;Data+Pipelines+%26+ETL+Design;Applied+Predictive+Modeling;Full-Stack+Analytical+Systems&center=true&width=600&height=45&color=8A2BE2&vCenter=true&speed=35">
 </p>
 
 ---
