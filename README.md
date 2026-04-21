@@ -90,26 +90,38 @@
   <img src="https://raw.githubusercontent.com/AchintyaCodes/snake-animation/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-## 🎯 Current Focus
-- Building production-level data science projects  
-- Strengthening DSA & problem solving  
-- Learning system design fundamentals  
-- Staying consistent daily
+---
 
+## 🎯 Current Focus
+- 🏗️ **Production-Grade ML:** Architecting end-to-end data pipelines and model deployments.
+- 🧩 **Advanced DSA:** Solving complex algorithmic challenges with a focus on time/space optimization.
+- 📐 **System Design:** Studying distributed systems and scalable database architectures.
+- 📉 **Statistical Inference:** Deepening expertise in probabilistic modeling and data-driven decision making.
+  
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/achintya-gupta-bb0091311
-- 📧 Email: achintya.mann@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/achintya-gupta-bb0091311" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:achintya.mann@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
 ## ⚡ Motto
-> "No shortcuts. Just execution."
+> **"No shortcuts. Just execution."**
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider following — this is just the beginning 🚀
+  <img src="https://capsule-render.vercel.app/action/type?&color=8A2BE2&height=50&section=footer&text=This%20is%20just%20the%20beginning...&fontSize=20&animation=fadeIn" />
+</p>
+
+<p align="center">
+  ⭐ If you like my work, consider following — let's build the future! 🚀
 </p>
