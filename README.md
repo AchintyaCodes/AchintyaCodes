@@ -119,7 +119,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/action/type?&color=8A2BE2&height=50&section=footer&text=This%20is%20just%20the%20beginning...&fontSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=60&section=footer&text=This%20is%20just+the+beginning...&fontSize=20&fontAlignY=70" width="100%" />
 </p>
 
 <p align="center">
