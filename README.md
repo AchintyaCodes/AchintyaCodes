@@ -44,14 +44,20 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-🔹 Currently building:
-- AI/ML Projects (in progress)  
-- Data Visualization Dashboards  
-- Full Stack Applications  
+### 🐍 Contribution Snake Automation
+- **Tech:** GitHub Actions, YAML, SVG Rendering
+- Automated a dynamic snake animation to visualize GitHub contribution heatmaps.
+- [View Repository](https://github.com/AchintyaCodes/snake-animation)
 
-⚡ Actively shipping projects — updates coming soon
+### 📊 Predictive Modeling & Analytics (In Progress)
+- **Tech:** Python, Scikit-Learn, Pandas
+- Developing end-to-end ML pipelines for data-driven forecasting and pattern recognition.
+
+### 💻 Full-Stack Data Systems
+- **Tech:** React, Node.js, SQL
+- Designing scalable applications focused on seamless data integration and UI/UX.
 
 ---
 
